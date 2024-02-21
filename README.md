@@ -79,11 +79,11 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
   # To upload project on github
   - create a repo from git hub 
-  -follow the following steps  on terminal
-  -git status
-  -git add .
-  -git commit -m “some message”
-  -git remote add origin <repo link>
-  -git remote set-url origin https://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@github.com/saliqkitab10/<repo name>
-  -git push origin main
+  - follow the following steps  on terminal
+  - git status
+  - git add .
+  - git commit -m “some message”
+  - git remote add origin <repo link>
+  - git remote set-url origin https://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@github.com/saliqkitab10/<repo name>
+  - git push origin main
 
